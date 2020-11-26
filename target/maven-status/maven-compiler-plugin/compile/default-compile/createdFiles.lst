@@ -1,0 +1,4 @@
+br/mppe/poc/ejb/rest/EndpointConsultarProtocoloEJB.class
+br/mppe/poc/ejb/RestActivationEJB.class
+br/mppe/poc/ejb/timer/TimerEJB.class
+br/mppe/poc/ejb/rest/EndpointAjuizarAcaoEJB.class
